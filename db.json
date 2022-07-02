@@ -1,31 +1,28 @@
 {
-  "posts": [
+  "data": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "name": "The Legend of Zelda: Tri Force Heroes",
+      "developer": "Nintendo",
+      "released_date": " October 23, 2015",
+      "id": "5f6ce9d805615a85623ec2ce"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "name": "Zelda: The Wand of Gamelon",
+      "developer": "Animation Magic",
+      "released_date": " October 10, 1993",
+      "id": "5f6ce9d805615a85623ec2d3"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "name": "The Legend of Zelda: Four Swords",
+      "developer": "Capcom",
+      "released_date": " December 2, 2002",
+      "id": "5f6ce9d805615a85623ec2c4"
+    },
+    {
+      "name": "The Legend of Zelda: The Minish Cap",
+      "developer": "Capcom",
+      "released_date": " January 10, 2005",
+      "id": "5f6ce9d805615a85623ec2c6"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
